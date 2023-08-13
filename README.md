@@ -50,7 +50,7 @@ Now solder the wires from the screen on to the rpi pico's pins as shown in the p
 
 ![](https://github.com/sKrible45/dexclock/blob/main/pictures/tutorial2.jpg)
 
-Then solder the button to `GND` and `GPIO1` on the `pico` and solder neopixels to `VCC` , `GND` and `A1` on the pico like in the pinout image.
+Then solder the button to `GND` and `GPIO1` on the pico and solder neopixels to `VCC` , `GND` and `A1` on the pico like in the pinout image.
 
 ![](https://github.com/sKrible45/dexclock/blob/main/pictures/tutorial4.jpg)
 
